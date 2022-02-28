@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidatePost</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebc54837-45b0-435f-bf2d-e7d085e3d3c7</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.UserId</defaultValue>
+      <description></description>
+      <id>a14d1fb0-5301-414c-8877-f3a58a80a789</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+</TestCaseEntity>
